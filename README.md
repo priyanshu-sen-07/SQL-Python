@@ -22,7 +22,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ### 3. Install Required Libraries and Load Data
    - **Libraries**: Install necessary Python libraries using:
      ```bash
-     pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
+     pip install pandas numpy sqlalchemy mysql-connector-python 
      ```
    - **Loading Data**: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
